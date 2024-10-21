@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\modules\C, C++\inheritance&polymorphism - maths game\main.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  inheritance&polymorphism - maths game.vcxproj -> C:\Users\tomgr\OneDrive - Sheffield Hallam University\Documents\modules\C, C++\inheritance&polymorphism - maths game\x64\Debug\inheritance&polymorphism - maths game.exe

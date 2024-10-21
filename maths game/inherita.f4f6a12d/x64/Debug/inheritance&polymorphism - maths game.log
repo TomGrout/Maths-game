@@ -1,0 +1,8 @@
+﻿  Addition.cpp
+  Question.cpp
+  Subtraction.cpp
+  main.cpp
+C:\Users\c3034731\OneDrive - Sheffield Hallam University\Documents\modules\C, C++\inheritance&polymorphism - maths game\main.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  LINK : C:\Users\c3034731\OneDrive - Sheffield Hallam University\Documents\modules\C, C++\inheritance&polymorphism - maths game\x64\Debug\inheritance&polymorphism - maths game.exe not found or not built by the last incremental link; performing full link
+  inheritance&polymorphism - maths game.vcxproj -> C:\Users\c3034731\OneDrive - Sheffield Hallam University\Documents\modules\C, C++\inheritance&polymorphism - maths game\x64\Debug\inheritance&polymorphism - maths game.exe
